@@ -1,5 +1,4 @@
 # Haiku
-<!doctype html>
 <html dir="ltr" lang="en">
 <head>
   <meta charset="utf-8">
