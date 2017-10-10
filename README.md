@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/main.css">
-  <title>RWD Haiku</title>
+  
   <meta name="author"content="Jylik Buissereth">
 </head>
 <body>
